@@ -21,6 +21,9 @@
 - We cannot decide the approval of loan based on verfication status
 - There should be trade-off to approval of loan
 - Applicants who are opting for Balance transfer option can be given high priority
+- Ownershipofhouseshouldbethestringentcriteriawhileapprovingloan.(Morelikelydefaultersarewithmortgagetype).
+- Itsadvisedwhilesanctioningloandebtconsolidationpurposeshouldbehighlyscrutinized.
+- AlsoitssuggestedtoscrutinizeC&Dgradedborrowers.
 
 ## Files
 - ipynb files
