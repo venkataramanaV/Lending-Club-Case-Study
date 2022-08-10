@@ -21,9 +21,9 @@
 - We cannot decide the approval of loan based on verfication status
 - There should be trade-off to approval of loan
 - Applicants who are opting for Balance transfer option can be given high priority
-- Ownershipofhouseshouldbethestringentcriteriawhileapprovingloan.(Morelikelydefaultersarewithmortgagetype).
-- Itsadvisedwhilesanctioningloandebtconsolidationpurposeshouldbehighlyscrutinized.
-- AlsoitssuggestedtoscrutinizeC&Dgradedborrowers.
+- Ownership of house should be the stringent criteria while approving loan.(More likely defaulters are with mortgage type).
+- Its advised while sanctioning loan debt consolidation purpose should be highly scrutinized.
+- Also its suggested to scrutinize C&D graded borrowers.
 
 ## Files
 - ipynb files
