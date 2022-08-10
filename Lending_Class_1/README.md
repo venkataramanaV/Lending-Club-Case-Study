@@ -23,8 +23,12 @@
 - Applicants who are opting for Balance transfer option can be given high priority
 
 ## Files
+- ipynb files
 - Lending Club Case Study.ipynb
-- Lending Club Case Study
+- Lending_Club_Case_Study.ipynb
+
+- pdf file
+- Lending Club Case Study.pdf
 
 ## Contact
 Created by https://github.com/venkataramanaV - feel free to contact me!
