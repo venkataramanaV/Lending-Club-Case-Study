@@ -22,5 +22,9 @@
 - There should be trade-off to approval of loan
 - Applicants who are opting for Balance transfer option can be given high priority
 
+## Files
+- Lending Club Case Study.ipynb
+- Lending Club Case Study
+
 ## Contact
 Created by https://github.com/venkataramanaV - feel free to contact me!
